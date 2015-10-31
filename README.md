@@ -8,7 +8,7 @@ The main use for this repository is to ease the peer review and put together all
 the code that will be uploaded as code sample.
 
 At the end of the project, an ipython notebook was written in the form of a project
-report. An static version of the notebook is can be read [here](http://nbviewer.ipython.org/6576096).
+report. A static version of the notebook is can be read [here](http://nbviewer.ipython.org/6576096).
 This work on the notebook started before the pencils down date on September 16th, although
 a few corrections were done afterwards.
 
